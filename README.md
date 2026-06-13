@@ -41,7 +41,7 @@ me.say_hi()
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages**
 
@@ -80,7 +80,7 @@ me.say_hi()
 
 ---
 
-### 📚 Currently Learning
+### Currently Learning
 
 <div align="center">
 <img src="https://img.shields.io/badge/PySpark-Learning-orange?style=for-the-badge&amp;logo=apachespark&amp;logoColor=white" height="32"/>
@@ -88,16 +88,13 @@ me.say_hi()
 
 ---
 
-### 📊 GitHub Stats
+### GitHub
 
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=adi4040&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adi4040&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adi4040&amp;theme=tokyonight&amp;hide_border=true" alt="streak stats" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
