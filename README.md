@@ -6,7 +6,7 @@
 <br>
 
 <!-- Rotating tagline -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=Currently+Exploring+PySpark+%E2%9A%A1;Building+REST+APIs+with+FastAPI+%F0%9F%9A%80;Turning+Data+into+Decisions+%F0%9F%93%8A" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=Currently+Exploring+PySpark;Building+REST+APIs+with+FastAPI;Turning+Data+into+Decisions" alt="Typing SVG" />
 
 </div>
 
